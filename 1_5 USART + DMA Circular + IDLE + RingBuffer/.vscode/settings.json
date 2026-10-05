@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.h": "c"
+    },
+    "files.autoGuessEncoding": false,
+    "files.encoding": "gb2312",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/@eaDir": true,
+        "**/*@SynoEAStream": true,
+        "mdk": false
+    },
+    "search.exclude": {
+        "**/@eaDir": true,
+        "**/*@SynoEAStream": true
+    },
+    "C_Cpp.files.exclude": {
+        "**/@eaDir/**": true,
+        "**/*@SynoEAStream": true
+    }
+}

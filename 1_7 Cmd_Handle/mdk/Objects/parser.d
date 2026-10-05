@@ -1,0 +1,42 @@
+.\objects\parser.o: ..\driver\Parser.c
+.\objects\parser.o: ..\firmware\cmsis\device\stm32f4xx.h
+.\objects\parser.o: ..\firmware\cmsis\core\core_cm4.h
+.\objects\parser.o: D:\Keil 5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\parser.o: ..\firmware\cmsis\core\core_cmInstr.h
+.\objects\parser.o: ..\firmware\cmsis\core\core_cmFunc.h
+.\objects\parser.o: ..\firmware\cmsis\core\core_cmSimd.h
+.\objects\parser.o: ..\firmware\cmsis\device\system_stm32f4xx.h
+.\objects\parser.o: ..\firmware\cmsis\device\stm32f4xx_conf.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_adc.h
+.\objects\parser.o: ..\firmware\cmsis\device\stm32f4xx.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_crc.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_dbgmcu.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_dma.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_exti.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_flash.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_gpio.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_i2c.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_iwdg.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_pwr.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_rcc.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_rtc.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_sdio.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_spi.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_syscfg.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_tim.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_usart.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_wwdg.h
+.\objects\parser.o: ..\firmware\driver\inc\misc.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_cryp.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_hash.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_rng.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_can.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_dac.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_dcmi.h
+.\objects\parser.o: ..\firmware\driver\inc\stm32f4xx_fsmc.h
+.\objects\parser.o: D:\Keil 5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\parser.o: D:\Keil 5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\parser.o: ..\driver\Parser.h
+.\objects\parser.o: ..\driver\RingBuffer.h
+.\objects\parser.o: ..\driver\USART.h
+.\objects\parser.o: ..\driver\CMD.h
